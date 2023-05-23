@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"grx20.h": "c",
+			"cmath": "cpp"
+		}
+	}
+}
